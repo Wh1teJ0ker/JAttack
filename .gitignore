@@ -1,0 +1,15 @@
+# Wails
+build/
+build/bin
+build/wails.exe
+build/wails
+build/JAttack
+build/JAttack.exe
+frontend/dist
+frontend/node_modules
+
+# Runtime data
+runtime/
+data/
+*.log
+*.db
